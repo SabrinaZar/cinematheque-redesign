@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="618" viewBox="0 0 420 618">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0f1724"/><stop offset="100%" stop-color="#284b69"/></linearGradient><linearGradient id="shade" x1="0" y1="0" x2="0" y2="1"><stop offset="33%" stop-color="#090919" stop-opacity="0"/><stop offset="100%" stop-color="#070916" stop-opacity=".86"/></linearGradient></defs>
+<rect width="420" height="618" fill="url(#bg)"/><path d="M0 420h43V255h55v87h37V204h53v131h30V163h49v191h26V280h35v-70h59v210h33v200H0Z" fill="#0c1324"/><path d="M7 620V432h40V620M63 620V329h26V620M145 620V267h28V620M225 620V211h20V620M308 620V293h21V620M355 620V249h21V620" fill="#1c3047"/><path d="M165 274h6m65-40h7m69 90h7M70 379h7M367 294h8" stroke="#f3dae2" stroke-width="7" opacity=".67"/><circle cx="312" cy="120" r="67" fill="#ebbecb" opacity=".48"/><rect width="420" height="618" fill="url(#shade)"/>
+<path d="M29 30H391M29 588H391" stroke="#deced2" stroke-width="1" opacity=".6"/>
+<text x="210" y="58" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="4" fill="#fbebe6">C I N É M A   O R I G I N A L</text>
+<text x="210" y="524" text-anchor="middle" font-family="Arial,sans-serif" font-size="54" font-weight="900" letter-spacing="2" fill="#fff6f0">NOCTURNE</text>
+<text x="210" y="571" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#efe7e7">LA VILLE NE DORT JAMAIS</text>
+</svg>

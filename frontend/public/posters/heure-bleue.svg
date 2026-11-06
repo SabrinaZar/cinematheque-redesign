@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="618" viewBox="0 0 420 618">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#14254b"/><stop offset="100%" stop-color="#ae718e"/></linearGradient><linearGradient id="shade" x1="0" y1="0" x2="0" y2="1"><stop offset="33%" stop-color="#090919" stop-opacity="0"/><stop offset="100%" stop-color="#070916" stop-opacity=".86"/></linearGradient></defs>
+<rect width="420" height="618" fill="url(#bg)"/><circle cx="300" cy="188" r="110" fill="#e2aac0" opacity=".19"/><path d="M0 405L40 365 62 387 80 335 116 365 134 302 156 342 187 285 227 349 263 295 284 355 316 317 347 375 374 341 420 392V620H0Z" fill="#14192e" opacity=".95"/><path d="M0 480L90 415 129 452 209 385 266 458 346 404 420 463V620H0Z" fill="#0a1226"/><path d="M205 340v160m-26-140h51m-10 140-16 82-17-82" stroke="#f7bec9" stroke-width="2" opacity=".55"/><rect width="420" height="618" fill="url(#shade)"/>
+<path d="M29 30H391M29 588H391" stroke="#f6cba8" stroke-width="1" opacity=".6"/>
+<text x="210" y="58" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="4" fill="#fbebe6">C I N É M A   O R I G I N A L</text>
+<text x="210" y="482" text-anchor="middle" font-family="Arial,sans-serif" font-size="54" font-weight="900" letter-spacing="2" fill="#fff6f0">L’HEURE</text><text x="210" y="541" text-anchor="middle" font-family="Arial,sans-serif" font-size="62" font-weight="800" letter-spacing="4" fill="#fff6f0">BLEUE</text>
+<text x="210" y="571" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#efe7e7">UN FILM DE CAMILLE LAURENT</text>
+</svg>
